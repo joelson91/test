@@ -22,3 +22,6 @@ st.dataframe(df)
 # Exibir gráfico de barras
 st.write("### Gráfico de exemplo:")
 st.bar_chart(df, x='genero', y='media')
+
+
+st.write("Olá mundo")
